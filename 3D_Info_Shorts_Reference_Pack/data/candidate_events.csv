@@ -1,0 +1,10 @@
+clip_id,frame,time_s,event,value,threshold_note
+01_His_Tattoo_Turned_Ironic_After_Amputation,1,0.033,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds
+01_His_Tattoo_Turned_Ironic_After_Amputation,500,16.667,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds
+02_Mother_Fights_Leopard_To_Save_Her_Son,1,0.033,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds
+02_Mother_Fights_Leopard_To_Save_Her_Son,236,7.867,candidate_cut,0.66411,luma histogram chi2 >= 0.35; visual review required
+02_Mother_Fights_Leopard_To_Save_Her_Son,500,16.667,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds
+02_Mother_Fights_Leopard_To_Save_Her_Son,633,21.100,candidate_cut,0.46143,luma histogram chi2 >= 0.35; visual review required
+03_The_Classroom_With_A_Farting_Corner,1,0.033,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds
+04_vidssave_com_How_To_Tell_If_You_re_Dreaming___720P,500,16.667,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds
+05_vidssave_com_The_Woman_Who_Lived_With_A_Dolphin___720P,500,16.667,candidate_freeze_or_duplicate,0.000000,mean luma delta <= 0.0008; check intentional holds

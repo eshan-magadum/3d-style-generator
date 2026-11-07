@@ -1,0 +1,65 @@
+{
+  "analysis_fps": 30.0,
+  "clips": [
+    {
+      "clip_id": "01_His_Tattoo_Turned_Ironic_After_Amputation",
+      "source_file": "His Tattoo Turned Ironic After Amputation 😬.mp4",
+      "duration_s": 35.37415,
+      "source_width": 360,
+      "source_height": 640,
+      "source_fps": "30000/1001",
+      "analysis_fps": 30.0,
+      "decoded_frames": 1059,
+      "contact_sheets": 18,
+      "has_audio": true
+    },
+    {
+      "clip_id": "02_Mother_Fights_Leopard_To_Save_Her_Son",
+      "source_file": "Mother Fights Leopard To Save Her Son 😨.mp4",
+      "duration_s": 37.440726,
+      "source_width": 360,
+      "source_height": 640,
+      "source_fps": "30000/1001",
+      "analysis_fps": 30.0,
+      "decoded_frames": 1121,
+      "contact_sheets": 19,
+      "has_audio": true
+    },
+    {
+      "clip_id": "03_The_Classroom_With_A_Farting_Corner",
+      "source_file": "The Classroom With A Farting Corner 🤢.mp4",
+      "duration_s": 23.787347,
+      "source_width": 360,
+      "source_height": 640,
+      "source_fps": "30/1",
+      "analysis_fps": 30.0,
+      "decoded_frames": 712,
+      "contact_sheets": 12,
+      "has_audio": true
+    },
+    {
+      "clip_id": "04_vidssave_com_How_To_Tell_If_You_re_Dreaming___720P",
+      "source_file": "vidssave.com How To Tell If You’re Dreaming 😴 720P.mp4",
+      "duration_s": 36.2362,
+      "source_width": 720,
+      "source_height": 1280,
+      "source_fps": "30000/1001",
+      "analysis_fps": 30.0,
+      "decoded_frames": 1087,
+      "contact_sheets": 19,
+      "has_audio": true
+    },
+    {
+      "clip_id": "05_vidssave_com_The_Woman_Who_Lived_With_A_Dolphin___720P",
+      "source_file": "vidssave.com The Woman Who Lived With A Dolphin 😮 720P.mp4",
+      "duration_s": 39.472767,
+      "source_width": 720,
+      "source_height": 1280,
+      "source_fps": "30000/1001",
+      "analysis_fps": 30.0,
+      "decoded_frames": 1184,
+      "contact_sheets": 20,
+      "has_audio": true
+    }
+  ]
+}
